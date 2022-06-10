@@ -1,0 +1,60 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * blue-goblet:
+ *   - http://typekit.com/eulas/00000000000000003b9afc7a
+ *   - http://typekit.com/eulas/000000000000000077359756
+ *   - http://typekit.com/eulas/00000000000000007735975b
+ *   - http://typekit.com/eulas/000000000000000077359761
+ * blue-goblet-alt:
+ *   - http://typekit.com/eulas/00000000000000003b9afc7d
+ *   - http://typekit.com/eulas/00000000000000003b9afc79
+ *   - http://typekit.com/eulas/00000000000000003b9afc78
+ *   - http://typekit.com/eulas/00000000000000003b9afc7c
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-05-15 22:36:49 UTC"}*/
+@font-face {
+    font-family: "blue-goblet";
+    font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+    src: url('../font/d.woff') format('woff2');
+}
+/* @font-face {
+    font-family: "blue-goblet";
+    font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+    src: url('../font/d2.woff') format('woff2');
+}
+@font-face {
+    font-family: "blue-goblet";
+    font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+    src: url('../font/d3.woff') format('woff2');
+}
+@font-face {
+    font-family: "blue-goblet";
+    font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+    src: url('../font/d4.woff') format('woff2');
+} */
+@font-face {
+    font-family: "blue-goblet-alt";
+    font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+    src: url('../font/d5.woff') format('woff2');
+}
+@font-face {
+    font-family: "blue-goblet-alt";
+    font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+    src: url('../font/d6.woff') format('woff2');
+}
+@font-face {
+    font-family: "blue-goblet-alt";
+    font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+    src: url('../font/d7.woff') format('woff2');
+}
+@font-face {
+    font-family: "blue-goblet-alt";
+    font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+    src: url('../font/d8.woff') format('woff2');
+}
